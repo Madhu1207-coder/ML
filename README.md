@@ -14,6 +14,9 @@
 ## 📖 Project Overview
 
 This repository presents a comprehensive study and implementation of **Outlier Detection** techniques applied in three different formats:
+<p align="center">
+  <img src="https://ouzhang.me/blog/outlier-series/outliers-part3/featured.jpg" width="300" alt="Thankyou  GIF"/>
+</p>
 
 1. **Outlier Detection on Iris Dataset**  
    - Implemented using Jupyter Notebook  
